@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dahnial Syauqy. I am a lecturer and engineer with a history of working in both industry and academia. Skilled in Embedded Systems, Signal Processing (especially on voice), Internet of Things, Pattern recognition, and Machine Learning. My current research focused on applying machine learning/signal processing on edge devices such as for wearable system.
+My name is Dahnial Syauqy. I am a `lecturer` and `engineer` with a history of working in both industry and academia. Skilled in Embedded Systems, Signal Processing (especially on voice), Internet of Things, Pattern recognition, and Machine Learning. My current research focused on applying machine learning/signal processing on edge devices such as for wearable system.
 
 <!--
 Here are some ideas to get you started:
